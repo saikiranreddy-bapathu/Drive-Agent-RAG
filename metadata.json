@@ -1,0 +1,6 @@
+{
+  "name": "Drive AI Agent",
+  "description": "Connect Google Drive to chat with your documents using RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
